@@ -421,4 +421,4 @@ MIT License — free to use for personal and commercial projects.
 
 ---
 
-> Built with ❤️ using the MERN stack. Inspired by Notion, Trello, Jira, and Monday.com.
+> Built with ❤️ using the MERN stack.
